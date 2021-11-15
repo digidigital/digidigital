@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @digidigital
-- 👀 I’m interested in a lot of things because I am unable to focus on a single topic...
-- 🌱 I’m currently learning python
+- 👀 I’m interested in a lot of different things because I am way too inquisitive to just focus on a single topic...
+- 🌱 I’m still learning python
 - 💞️ I’m looking to collaborate on funny things
 - 📫 How to reach me: https://blog.digidigital.de 
 
